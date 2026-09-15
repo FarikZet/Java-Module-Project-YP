@@ -42,7 +42,7 @@ public class Main {
     private static final int MAX_SPEED = 250;
     private static final int CARS_COUNT = 3;
 
-    static void main(String[] args) {
+   public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Car[] cars = new Car[CARS_COUNT];
 
